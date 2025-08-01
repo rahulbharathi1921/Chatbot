@@ -55,6 +55,8 @@ Before running these apps, make sure you have:
 
 ✅ Chrome, Edge, or any supported browser for web run
 
+otherwise use online idle https://flutlab.io/
+
 📥 Download & Setup
 
 Download the repository
