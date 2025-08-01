@@ -109,7 +109,9 @@ This project is for learning and sharing knowledge. If you have improvements or 
 
 📬 Contact
 GitHub: https://github.com/rahulbharathi1921
+
 Instagram: https://www.instagram.com/cursed_person21?igsh=MW1haXJkdWJhMWt3Zw==
+
 Email: mailtorahulbharathi@gmail.com 
 
 ⭐ Star this repo if you find it useful or inspiring! and Dont forget to check here when you visit Github again , i have try to modify the code for better ui and state flow and also i will add more projects related to APP Development  and WEB development Along with DATA Analysis in FUTURE...
