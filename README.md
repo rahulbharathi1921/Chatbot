@@ -108,7 +108,6 @@ Choose your desired platform when prompted (Chrome, Edge, etc.)
 This project is for learning and sharing knowledge. If you have improvements or cool ideas, feel free to fork and contribute! 🙌
 
 📬 Contact
-GitHub: https://github.com/rahulbharathi1921
 
 Instagram: https://www.instagram.com/cursed_person21?igsh=MW1haXJkdWJhMWt3Zw==
 
